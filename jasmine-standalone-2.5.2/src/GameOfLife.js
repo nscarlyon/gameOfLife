@@ -11,4 +11,7 @@ function populationStatus(neighbors) {
     if(neighbors < 2 || neighbors > 3) {
         return "dead";
     }
+    if(neighbors == 2){
+        return "alive";
+    }
 }
