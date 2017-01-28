@@ -6,5 +6,9 @@ describe("Game of LIfe", function() {
         expect(stateOfCell(cell)).toEqual(1);
     });
 
+    it("returns the number of neighbors", function() {
+
+        expect(getTotalNeighbors(4)).toEqual(4);
+    });
 
 });
