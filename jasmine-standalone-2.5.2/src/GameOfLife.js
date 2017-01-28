@@ -6,3 +6,7 @@ function stateOfCell(cell){
 function getTotalNeighbors() {
     return 4;
 }
+
+function populationStatus() {
+    return "dead";
+}
