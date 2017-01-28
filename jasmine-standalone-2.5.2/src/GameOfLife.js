@@ -1,4 +1,4 @@
 function stateOfCell(cell){
 
-    return 1;
+    return cell.state;
 }

@@ -4,5 +4,7 @@ describe("Game of LIfe", function() {
             state: 1
         };
         expect(stateOfCell(cell)).toEqual(1);
-    })
+    });
+
+
 });
