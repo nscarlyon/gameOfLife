@@ -7,6 +7,8 @@ function getTotalNeighbors() {
     return 4;
 }
 
-function populationStatus() {
-    return "dead";
+function populationStatus(neighbors) {
+    if(neighbors < 2) {
+        return "dead"
+    }
 }
