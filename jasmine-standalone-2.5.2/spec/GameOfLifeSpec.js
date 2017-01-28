@@ -10,7 +10,7 @@ describe("Game of LIfe", function() {
         expect(getTotalNeighbors(4)).toEqual(4);
     });
 
-    it("returns population status", function() {
+    it("returns population status when there less than two", function() {
         expect(populationStatus(1)).toEqual("dead");
     });
 
