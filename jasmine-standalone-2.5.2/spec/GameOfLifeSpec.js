@@ -18,9 +18,12 @@ describe("Game of LIfe", function() {
         expect(populationStatus(4)).toEqual("dead");
     });
 
-
     it("returns population status there two people", function() {
         expect(populationStatus(2)).toEqual("alive");
+    });
+
+    it("returns population status when there is exactly three", function() {
+        expect(populationStatus(3)).toEqual("alive");
     });
 
 

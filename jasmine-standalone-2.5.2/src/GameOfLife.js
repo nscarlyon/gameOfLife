@@ -14,4 +14,8 @@ function populationStatus(neighbors) {
     if(neighbors == 2){
         return "alive";
     }
+
+    if(neighbors === 3) {
+        return "alive";
+    }
 }
