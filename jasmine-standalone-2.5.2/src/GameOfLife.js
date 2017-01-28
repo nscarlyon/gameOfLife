@@ -1,14 +1,4 @@
-class Cell {
-    var lifeStatus() {
-        return true;
-    }
+function stateOfCell(cell){
+
+    return 1;
 }
-// var cell = function() {
-//     var lifeStatus = function(alive) {
-//         return true;
-//     }
-// };
-//
-// lifeStatus = function(alive) {
-//     return alive;
-// };
