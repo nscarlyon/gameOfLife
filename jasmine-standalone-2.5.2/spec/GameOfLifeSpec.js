@@ -26,5 +26,9 @@ describe("Game of LIfe", function() {
         expect(populationStatus(3)).toEqual("alive");
     });
 
+    it("returns the coordinates of the cell", function() {
+        expect(getCellCoord(1,1)).toEqual([1,1]);
+    });
+
 
 });

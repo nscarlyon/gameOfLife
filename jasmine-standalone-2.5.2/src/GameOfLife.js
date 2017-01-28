@@ -19,3 +19,8 @@ function populationStatus(neighbors) {
         return "alive";
     }
 }
+
+
+function getCellCoord(x_axis, y_axis){
+    return [x_axis, y_axis];
+}

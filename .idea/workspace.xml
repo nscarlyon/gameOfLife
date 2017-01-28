@@ -31,21 +31,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameOfLifeSpec.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GameOfLifeSpec.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jasmine-standalone-2.5.2/spec/GameOfLifeSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="48" lean-forward="false" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+            <state relative-caret-position="479">
+              <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameOfLife.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GameOfLife.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jasmine-standalone-2.5.2/src/GameOfLife.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="408">
+              <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -59,8 +59,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jasmine-standalone-2.5.2/spec/GameOfLifeSpec.js" />
         <option value="$PROJECT_DIR$/jasmine-standalone-2.5.2/src/GameOfLife.js" />
+        <option value="$PROJECT_DIR$/jasmine-standalone-2.5.2/spec/GameOfLifeSpec.js" />
       </list>
     </option>
   </component>
@@ -270,12 +270,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485632493518</updated>
-      <workItem from="1485632495062" duration="1812000" />
+      <workItem from="1485632495062" duration="2099000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1812000" />
+    <option name="totallyTimeSpent" value="2099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -326,18 +326,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jasmine-standalone-2.5.2/spec/GameOfLifeSpec.js">
+    <entry file="file://$PROJECT_DIR$/jasmine-standalone-2.5.2/src/GameOfLife.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" column="48" lean-forward="false" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jasmine-standalone-2.5.2/src/GameOfLife.js">
+    <entry file="file://$PROJECT_DIR$/jasmine-standalone-2.5.2/spec/GameOfLifeSpec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="479">
+          <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
           <folding />
         </state>
       </provider>
